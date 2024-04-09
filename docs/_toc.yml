@@ -1,0 +1,41 @@
+format: jb-book
+root: intro
+parts:
+- caption: Blogs
+  numbered: true
+  # maxdepth: 1
+  chapters:
+  - file: pre_gsoc.md
+  - file: community_bonding.md
+  - file: week_1.md
+  - file: week_2.md
+  - file: week_3.md
+  - file: week_4.md
+  - file: phase_1.md
+  - file: week_5.md
+  - file: week_6.md
+  - file: week_7.md
+  - file: week_8.md
+  - file: week_9.md
+  - file: week_10.md
+  - file: week_11.md
+  - file: week_12.md
+  - file: final_report.md
+
+  # - file: tutorials/references
+
+# - caption: Topic Guides
+#   chapters:
+#   - file: basics/organize
+#     sections:
+#     - file: structure/toc
+#     - file: structure/configure
+#     - file: file-types/index
+#       sections:
+#       - file: file-types/markdown
+#       - file: file-types/notebooks
+#       - file: file-types/myst-notebooks
+#       - file: file-types/jupytext
+#       - file: file-types/restructuredtext
+#     - file: basics/create
+#     - file: structure/sections-headers
