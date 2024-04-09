@@ -2,7 +2,7 @@ format: jb-book
 root: intro
 parts:
 - caption: Blogs
-  numbered: true
+  numbered: false
   # maxdepth: 1
   chapters:
   - file: pre_gsoc.md
